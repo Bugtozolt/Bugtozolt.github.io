@@ -9,6 +9,7 @@ body {
     align-items: center;
     justify-content: center;
     background-color: rgb(255, 245, 226);
+    color: black;
 }
 
 #all {
@@ -92,4 +93,5 @@ button {
 }
 .btncol2 {
     transform: rotate(180deg);
+
 }
