@@ -17,7 +17,7 @@ body {
     align-items: center;
     justify-content: center;
     gap: 70px;
-    margin-top: 300px;
+    margin-top: 150px;
 }
 
 #warrior, #enemy{
@@ -115,4 +115,5 @@ button {
     justify-content: center;
     flex-direction: row;
     gap: 230px;
+
 }
